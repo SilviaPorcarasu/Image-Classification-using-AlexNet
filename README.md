@@ -1,6 +1,6 @@
 # Image Classification using AlexNet
 
-This project explores the application of **AlexNet**, a Convolutional Neural Network (CNN), for classifying dog breeds from the **Stanford Dogs Dataset**.
+This project explores the application of **AlexNet**, a Convolutional Neural Network (CNN), for classifying dog breeds from the **Stanford Dogs Dataset**. https://www.kaggle.com/datasets/jessicali9530/stanford-dogs-dataset
 
 ## Dataset
 
