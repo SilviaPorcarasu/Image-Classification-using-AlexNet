@@ -26,19 +26,19 @@ Images were resized to `227x227` and normalized to match AlexNet's input require
 
 Three training configurations were tested:
 1. **Clean dataset + SGDM optimizer**  
-   - 🔹 Train accuracy: 98.85%  
-   - 🔹 Validation accuracy: 95.91%  
-   - 🔹 Test accuracy: 97.96%  
+   - Train accuracy: 98.85%  
+   - Validation accuracy: 95.91%  
+   - Test accuracy: 97.96%  
 
 2. **Noisy dataset + SGDM optimizer**  
    - Gaussian noise (σ = 0.05) added to images  
-   - 🔹 Train accuracy: 55.31%  
-   - 🔹 Validation accuracy: 39.88%  
-   - 🔹 Test accuracy: 40.21%  
+   - Train accuracy: 55.31%  
+   - Validation accuracy: 39.88%  
+   - Test accuracy: 40.21%  
 
 3. **Clean dataset + Adam optimizer**  
    - Training stopped early due to time constraints  
-   - 🔹 Accuracy range: ~52-54% across all splits  
+   - Accuracy range: ~52-54% across all splits  
 
 ## Insights
 
